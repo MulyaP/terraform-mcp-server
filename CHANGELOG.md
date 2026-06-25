@@ -1,3 +1,9 @@
+# Unreleased
+
+FEATURES
+
+* [New Tool] `force_unlock_workspace` Force unlocks a Terraform workspace stuck in a run-held lock. Requires workspace admin permissions and is gated behind `ENABLE_TF_OPERATIONS=true`
+
 # 1.0.0
 
 FEATURES
